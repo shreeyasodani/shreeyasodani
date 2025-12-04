@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Shreeya 👋
 
-<!--
-**shreeyasodani/shreeyasodani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Engineering student exploring programming and building a strong foundation in tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- C programming  
+- Python basics  
+
+---
+
+## 🎯 What I'm Working On
+- Practising code regularly  
+- Building beginner-friendly projects  
+- Exploring different tech areas before choosing a direction  
+
+---
+
+## 🎭 Campus Involvement
+- **Drama Club** – daily theatre practice, performances & creative expression  
+- **ED Cell** – entrepreneurship exposure, events & idea-building  
+- **Sphinx Fest Team** – fest work, management & coordination  
+
+---
+
+## ✨ Hobbies
+- 🎨 **Painting** – colours, portraits, creative art  
+- ✈️ **Travelling** – exploring new places & experiences  
+
+---
+
+## 💡 About Me
+I'm still figuring out my exact career path, but I'm curious, motivated, and love learning by doing.  
+Excited to try software development, AI, web development, and anything creative.
